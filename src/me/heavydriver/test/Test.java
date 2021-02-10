@@ -27,7 +27,7 @@ public class Test extends JavaPlugin {
 		Player player = (Player) sender;
 		
 		if (cmd.getName().equalsIgnoreCase("test")) {
-			player.sendMessage(ChatColor.GOLD + "Test ran successfully!");
+			player.sendMessage(ChatColor.GOLD + "Jai shree Ram!");
 		}
 		return true;
 	}
